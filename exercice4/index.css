@@ -1,0 +1,12 @@
+h1
+{
+	font-size: 40px; /*taille du titre*/
+}
+p
+{
+	font-weight: bold; /*texte mis en gras*/
+}
+a
+{
+color: purple;
+}

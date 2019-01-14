@@ -1,0 +1,32 @@
+.kilos
+{
+    color: red;
+}
+.litres
+{
+	color: green;
+}
+.boites
+{
+	font-weight: bold;
+}
+h1
+{
+	font-size: 40px; /*taille du titre*/
+}
+p, ul
+{
+	font-weight: normal; /*mise du texte en gras*/
+}
+p, ul
+{
+	font-size: 20px; /* taille du texte*/
+}
+p, ul
+{
+	font-family: "times new roman", arial, verdana, serif; /*police*/
+}
+em
+{
+    font-style: italic; /*mise en italic 2e paragraphe*/
+}
